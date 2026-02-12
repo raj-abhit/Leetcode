@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
