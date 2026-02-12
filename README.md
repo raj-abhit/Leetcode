@@ -6,10 +6,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/raj-abhit/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -26,11 +28,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +44,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -48,4 +53,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
