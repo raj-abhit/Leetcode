@@ -38,6 +38,7 @@
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting Sort
 |  |
 | ------- |
