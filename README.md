@@ -39,6 +39,7 @@
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
