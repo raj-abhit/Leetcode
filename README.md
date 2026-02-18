@@ -8,6 +8,7 @@
 | [0258-add-digits](https://github.com/raj-abhit/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/raj-abhit/Leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/raj-abhit/Leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
