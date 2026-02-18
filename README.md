@@ -9,18 +9,21 @@
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/raj-abhit/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raj-abhit/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
