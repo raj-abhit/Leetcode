@@ -40,6 +40,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
