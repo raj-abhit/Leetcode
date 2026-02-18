@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/raj-abhit/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -107,4 +108,12 @@
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
