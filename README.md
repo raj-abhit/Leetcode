@@ -13,6 +13,7 @@
 | [0367-valid-perfect-square](https://github.com/raj-abhit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,8 +124,14 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raj-abhit/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
