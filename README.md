@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/raj-abhit/Leetcode/tree/master/1037-valid-boomerang) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1037-valid-boomerang](https://github.com/raj-abhit/Leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/raj-abhit/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
