@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
