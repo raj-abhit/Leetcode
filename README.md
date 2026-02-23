@@ -97,6 +97,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/raj-abhit/Leetcode/tree/master/0520-detect-capital) |
 ## Binary Search
 |  |
 | ------- |
