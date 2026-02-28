@@ -44,6 +44,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
