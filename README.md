@@ -123,6 +123,7 @@
 | [0520-detect-capital](https://github.com/raj-abhit/Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/raj-abhit/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
