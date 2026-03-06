@@ -118,6 +118,7 @@
 | [0389-find-the-difference](https://github.com/raj-abhit/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/raj-abhit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raj-abhit/Leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/raj-abhit/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/raj-abhit/Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/raj-abhit/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Binary Search
