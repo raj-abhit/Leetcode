@@ -30,6 +30,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raj-abhit/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raj-abhit/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raj-abhit/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
