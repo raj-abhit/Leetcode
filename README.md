@@ -22,6 +22,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
@@ -48,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
