@@ -77,6 +77,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/raj-abhit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/raj-abhit/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/raj-abhit/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/raj-abhit/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/raj-abhit/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
