@@ -19,6 +19,7 @@
 | [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/raj-abhit/Leetcode/tree/master/1037-valid-boomerang) |
 | [1323-maximum-69-number](https://github.com/raj-abhit/Leetcode/tree/master/1323-maximum-69-number) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1672-richest-customer-wealth](https://github.com/raj-abhit/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
