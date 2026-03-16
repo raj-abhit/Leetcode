@@ -72,6 +72,7 @@
 | [1037-valid-boomerang](https://github.com/raj-abhit/Leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/raj-abhit/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -92,6 +93,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -118,6 +120,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +169,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/raj-abhit/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
