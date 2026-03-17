@@ -86,6 +86,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -103,6 +104,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
