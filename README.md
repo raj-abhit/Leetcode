@@ -80,6 +80,7 @@
 | [1089-duplicate-zeros](https://github.com/raj-abhit/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raj-abhit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
