@@ -81,6 +81,7 @@
 | [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raj-abhit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@
 | [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -158,6 +160,7 @@
 | [0551-student-attendance-record-i](https://github.com/raj-abhit/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
+| [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
