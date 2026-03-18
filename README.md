@@ -29,6 +29,7 @@
 | [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/raj-abhit/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@
 | [0258-add-digits](https://github.com/raj-abhit/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/raj-abhit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raj-abhit/Leetcode/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
@@ -68,6 +70,7 @@
 | [0704-binary-search](https://github.com/raj-abhit/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raj-abhit/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/raj-abhit/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/raj-abhit/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -225,6 +229,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/raj-abhit/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/raj-abhit/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
