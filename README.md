@@ -13,6 +13,7 @@
 | [0367-valid-perfect-square](https://github.com/raj-abhit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/raj-abhit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raj-abhit/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/raj-abhit/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/raj-abhit/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/raj-abhit/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/raj-abhit/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raj-abhit/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Heap (Priority Queue)
