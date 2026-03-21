@@ -167,6 +167,7 @@
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raj-abhit/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/raj-abhit/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
