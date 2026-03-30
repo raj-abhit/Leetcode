@@ -80,6 +80,7 @@
 | [0860-lemonade-change](https://github.com/raj-abhit/Leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/raj-abhit/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raj-abhit/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raj-abhit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -188,6 +189,7 @@
 | [0796-rotate-string](https://github.com/raj-abhit/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raj-abhit/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/raj-abhit/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raj-abhit/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/raj-abhit/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
