@@ -6,11 +6,12 @@ class Solution(object):
         """
         n = len(nums)
         nums.sort()
-        a = max(nums)
+        """a = max(nums)
         b = nums[n-2]
         c = min(nums)
 
-        total = a+b-c
+        total = a+b-c"""
+        total = max(nums) + nums[n-2] - min(nums)
 
         return total
 
