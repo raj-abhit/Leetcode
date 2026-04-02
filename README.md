@@ -25,6 +25,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raj-abhit/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/raj-abhit/Leetcode/tree/master/1323-maximum-69-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raj-abhit/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raj-abhit/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
