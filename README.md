@@ -54,6 +54,7 @@
 | [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
