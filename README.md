@@ -124,6 +124,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raj-abhit/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/raj-abhit/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raj-abhit/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/raj-abhit/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/raj-abhit/Leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raj-abhit/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3745-maximize-expression-of-three-elements](https://github.com/raj-abhit/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/raj-abhit/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
