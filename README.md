@@ -126,6 +126,7 @@
 | [3467-transform-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raj-abhit/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/raj-abhit/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/raj-abhit/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/raj-abhit/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3668-restore-finishing-order](https://github.com/raj-abhit/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/raj-abhit/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
