@@ -123,6 +123,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raj-abhit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raj-abhit/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/raj-abhit/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2942-find-words-containing-character](https://github.com/raj-abhit/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raj-abhit/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raj-abhit/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -235,6 +236,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/raj-abhit/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/raj-abhit/Leetcode/tree/master/2418-sort-the-people) |
+| [2942-find-words-containing-character](https://github.com/raj-abhit/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
