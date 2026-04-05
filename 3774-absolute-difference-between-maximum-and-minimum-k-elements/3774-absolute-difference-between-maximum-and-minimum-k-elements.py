@@ -6,4 +6,4 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        return abs(sum(nums[:k]) - sum(nums[-k:]))
+        return  sum(nums[-k:])-sum(nums[:k]) 
