@@ -97,6 +97,7 @@
 | [1122-relative-sort-array](https://github.com/raj-abhit/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raj-abhit/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raj-abhit/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/raj-abhit/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raj-abhit/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raj-abhit/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
