@@ -56,6 +56,7 @@
 | [0412-fizz-buzz](https://github.com/raj-abhit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raj-abhit/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/raj-abhit/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -103,6 +104,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raj-abhit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/raj-abhit/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-abhit/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/raj-abhit/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
