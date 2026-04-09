@@ -107,6 +107,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-abhit/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/raj-abhit/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/raj-abhit/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/raj-abhit/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raj-abhit/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
