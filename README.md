@@ -120,6 +120,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/raj-abhit/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/raj-abhit/Leetcode/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raj-abhit/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raj-abhit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -290,6 +291,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raj-abhit/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/raj-abhit/Leetcode/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raj-abhit/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raj-abhit/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raj-abhit/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/raj-abhit/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
