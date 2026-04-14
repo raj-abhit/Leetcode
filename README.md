@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raj-abhit/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raj-abhit/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
