@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raj-abhit/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
@@ -195,6 +196,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
@@ -311,6 +313,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
