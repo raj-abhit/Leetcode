@@ -76,6 +76,7 @@
 | [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/raj-abhit/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/raj-abhit/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
@@ -276,6 +277,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/raj-abhit/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raj-abhit/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/raj-abhit/Leetcode/tree/master/0367-valid-perfect-square) |
