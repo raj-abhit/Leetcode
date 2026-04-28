@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raj-abhit/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raj-abhit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/raj-abhit/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/raj-abhit/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
@@ -81,6 +82,7 @@
 | [0169-majority-element](https://github.com/raj-abhit/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raj-abhit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/raj-abhit/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -282,6 +284,7 @@
 | [0162-find-peak-element](https://github.com/raj-abhit/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raj-abhit/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/raj-abhit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/raj-abhit/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/raj-abhit/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/raj-abhit/Leetcode/tree/master/0441-arranging-coins) |
@@ -321,6 +324,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raj-abhit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raj-abhit/Leetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/raj-abhit/Leetcode/tree/master/0905-sort-array-by-parity) |
