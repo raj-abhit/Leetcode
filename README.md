@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/raj-abhit/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raj-abhit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/raj-abhit/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
@@ -171,6 +172,7 @@
 | [0242-valid-anagram](https://github.com/raj-abhit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/raj-abhit/Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/raj-abhit/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/raj-abhit/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -209,6 +211,7 @@
 | [0268-missing-number](https://github.com/raj-abhit/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/raj-abhit/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/raj-abhit/Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raj-abhit/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/raj-abhit/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/raj-abhit/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raj-abhit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
