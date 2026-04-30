@@ -13,4 +13,3 @@ class Solution(object):
         actual = sum(nums)
         missing = expected - actual
         return missing
-        
