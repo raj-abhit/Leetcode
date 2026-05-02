@@ -11,4 +11,3 @@ class Solution(object):
         for src, dst in paths:
             if dst not in sources:
                 return dst
-        
