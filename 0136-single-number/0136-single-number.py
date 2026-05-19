@@ -4,8 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        new = set(nums)
-        
-        unique = sum(new)*2 - sum(nums)
+        new = {}
+        for num in nums:
+            if num in new:
+                new[num] += 1
+            else:
+                new[num] = 1
+        for num in new:
+            if new[num] == 1:
+                return num
 
-        return unique
+        
