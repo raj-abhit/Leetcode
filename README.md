@@ -62,6 +62,7 @@
 | [0415-add-strings](https://github.com/raj-abhit/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/raj-abhit/Leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/raj-abhit/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raj-abhit/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/raj-abhit/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raj-abhit/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/raj-abhit/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -130,6 +131,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raj-abhit/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/raj-abhit/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raj-abhit/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raj-abhit/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/raj-abhit/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/raj-abhit/Leetcode/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raj-abhit/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/raj-abhit/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raj-abhit/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -409,4 +412,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/raj-abhit/Leetcode/tree/master/0164-maximum-gap) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raj-abhit/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
