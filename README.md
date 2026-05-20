@@ -78,6 +78,7 @@
 | [0001-two-sum](https://github.com/raj-abhit/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/raj-abhit/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/raj-abhit/Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/raj-abhit/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/raj-abhit/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/raj-abhit/Leetcode/tree/master/0164-maximum-gap) |
@@ -357,6 +358,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/raj-abhit/Leetcode/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/raj-abhit/Leetcode/tree/master/1025-divisor-game) |
 ## Geometry
 |  |
